@@ -1,15 +1,46 @@
-# MovieVault
-A sleek and interactive movie search web application built with ReactJS and the TMDB API. MovieVault allows users to explore movies by title, view posters, ratings, and filter based on user preferences in a clean UI.
+# 🎬 MovieVault
 
-# React + Vite
+A sleek and interactive movie search web application built with **ReactJS**, **Vite**, and the **TMDB API**.  
+MovieVault lets users explore movies by title, view posters, ratings, and filter results in a clean and responsive UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🌐 [Click here to view MovieVault](https://movie-vault-seven.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** (Frontend)
+- **Vite** (Bundler & Dev Server)
+- **TMDB API** (Movie data)
+- **CSS** (Styling)
+- **Vercel** (Deployment)
+
+---
+
+## 🔍 Features
+
+- 🔎 Search movies by title  
+- 🎞️ Display posters, titles, and ratings  
+- ⭐ Filter movies by rating  
+- 📱 Fully responsive design
+
+---
+
+## 📁 Setup Instructions
+
+```bash
+# Clone the repository
+git clone https://github.com/lokshana-dv/MovieVault.git
+
+# Navigate to the project directory
+cd MovieVault
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
